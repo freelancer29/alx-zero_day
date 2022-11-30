@@ -1,1 +1,1 @@
-My first readme
+hi its feels good to learn software engineering
